@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1529901075 source:d:\Кульков М.С\source\cpp\techconv\main.cpp
+	<iostream>
+	"main.h"
+
+1529744102 d:\Кульков М.С\source\cpp\techconv\main.h
+
+1529908855 source:d:\Кульков М.С\source\cpp\techconv_work\main.cpp
+	<iostream>
+	"main.h"
+
+1529744102 d:\Кульков М.С\source\cpp\techconv_work\main.h
+
